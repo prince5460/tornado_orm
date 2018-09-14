@@ -15,7 +15,7 @@ HOSTNAME = 'localhost'
 PORT = '3306'
 DATABASE = 'Test'
 USERNAME = 'root'
-PASSWORD = '251120714'
+PASSWORD = '123456'
 
 ##连接数据连接 URL
 Db_url = 'mysql+pymysql://{}:{}@{}:{}/{}?charset=utf8'.format(
